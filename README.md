@@ -1,24 +1,3 @@
-# ipa
+# daem-on/ipa
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+A web app that displays an IPA (Internation Phonetic Alphabet) breakdown.

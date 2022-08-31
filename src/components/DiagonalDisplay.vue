@@ -41,12 +41,11 @@
 			<div class="example" v-if="result.example" v-html="result.example"></div>
 		</div>
 		<div v-else class="notfound">
-			No entry found
 		</div>
 	</div>
 </template>
 
-<style>
+<style scoped>
 	.char-display {
 		display: flex;
 		flex-direction: row;

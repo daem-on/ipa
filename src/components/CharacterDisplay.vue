@@ -56,7 +56,7 @@ const result = computed(() => findCharacter(props.value));
 	</div>
 </template>
 
-<style>
+<style scoped>
 	.char-display {
 		display: flex;
 		flex-direction: row;
