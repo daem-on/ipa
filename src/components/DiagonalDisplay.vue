@@ -38,7 +38,7 @@
 		<div
 			v-if="result != null"
 			class="details">
-			<div class="example" v-if="result.example" v-html="result.example"></div>
+			<div class="example-diagonal" v-if="result.example" v-html="result.example"></div>
 		</div>
 		<div v-else class="notfound">
 		</div>
@@ -99,14 +99,6 @@
 		display: none;
 	}
 
-	.example i {
-		/* background-color: rgb(255, 226, 190);
-		border-radius: 3px;
-		padding: 0.1em 0.2em; */
-		font-style: normal;
-		color: rgb(20, 17, 13);
-	}
-
 	.id {
 		font-size: 25pt;
 		background-color: rgb(255, 249, 242);
@@ -117,5 +109,15 @@
 		align-items: center;
 		border: 1px solid rgb(202, 176, 139);
 		border-radius: 5px;
+	}
+</style>
+
+<style>
+	.example-diagonal i {
+		/* background-color: rgb(255, 226, 190);
+		border-radius: 3px;
+		padding: 0.1em 0.2em; */
+		font-style: normal;
+		color: rgb(20, 17, 13);
 	}
 </style>

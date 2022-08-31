@@ -106,13 +106,6 @@ const result = computed(() => findCharacter(props.value));
 		height: 1em;
 	}
 
-	.example i {
-		background-color: rgb(255, 226, 190);
-		border-radius: 3px;
-		padding: 0.1em 0.2em;
-		font-style: normal;
-	}
-
 	.value {
 		font-size: 13pt;
 	}
@@ -131,5 +124,14 @@ const result = computed(() => findCharacter(props.value));
 
 	.notfound {
 		color: rgb(175, 133, 71);
+	}
+</style>
+
+<style>
+	.example i {
+		background-color: rgb(255, 226, 190);
+		border-radius: 3px;
+		padding: 0.1em 0.2em;
+		font-style: normal;
 	}
 </style>
