@@ -1,0 +1,808 @@
+[
+    {
+        "id": "a",
+        "example": "German <i>M<b>a</b>nn</i>, French <i>g<b>a</b>re</i>",
+        "note": "For many English speakers, the first part of the <i>ow</i> sound in <i>cow</i>. Found in some dialects of English in <i>c<b>a</b>t</i> or <i>f<b>a</b>ther</i>.",
+        "value": "low central (or front) unrounded vowel"
+    },
+    {
+        "id": "ä",
+        "example": "Mandarin 他 <i>t<b>ā</b></i>, American English <i>f<b>a</b>ther</i>, Spanish <i>c<b>a</b>s<b>a</b></i>, French <i>p<b>a</b>tte</i>",
+        "note": "",
+        "value": "central vowel ranging between [ɛ] and [ə]"
+    },
+    {
+        "id": "ɐ",
+        "example": "RP <i>c<b>u</b>t</i>, German <i>Kais<b>er</b>slaut<b>er</b>n</i>",
+        "note": "(In transcriptions of English, <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɐ]</span> is usually written ⟨<span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">ʌ</span>⟩.)"
+    },
+    {
+        "id": "ɑ",
+        "example": "RP <i>f<b>a</b>ther,</i> French <i>p<b>â</b>te</i>, Dutch <i>b<b>a</b>d</i>",
+        "note": "",
+        "value": "low back unrounded vowel; often written [a]"
+    },
+    {
+        "id": "ɑ̃",
+        "example": "French <i>C<b>aen</b></i>, <i>s<b>an</b>s</i>, <i>t<b>em</b>ps</i>",
+        "note": "Nasalized <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɑ]</span>."
+    },
+    {
+        "id": "ɒ",
+        "example": "RP <i>c<b>o</b>t</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɑ]</span>, but with the lips slightly rounded.",
+        "value": "low back rounded vowel"
+    },
+    {
+        "id": "ʌ",
+        "example": "American English <i>c<b>u</b>t</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɔ]</span>, but without the lips being rounded. (When ⟨<span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">ʌ</span>⟩ is used for English, it may really be <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɐ]</span> or <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɜ]</span>.)",
+        "value": "mid central unrounded vowel; stressed in English"
+    },
+    {
+        "id": "æ",
+        "example": "RP <i>c<b>a</b>t</i>",
+        "note": "",
+        "value": "low front unrounded vowel"
+    },
+    {
+        "id": "b",
+        "example": "English <i><b>b</b>a<b>bb</b>le</i>",
+        "note": "",
+        "value": "voiced bilabial stop"
+    },
+    {
+        "id": "ɓ",
+        "example": "Swahili <i><b>b</b>wana</i>",
+        "note": "Like a <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[b]</span> said with a gulp. See <a href=\"/wiki/Implosive_consonant\" title=\"Implosive consonant\">implosive consonants</a>."
+    },
+    {
+        "id": "β",
+        "example": "Spanish <i>la <b>B</b>amba</i>, Kinyarwanda <i>a<b>b</b>ana</i> \"children\", Korean 무궁화 [muɡuŋβwa̠] <i>mugung<b>h</b>wa</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[b]</span>, but with the lips not quite closed.",
+        "value": "voiced bilabial fricative"
+    },
+    {
+        "id": "ʙ",
+        "example": "Nias <i>si<b>mb</b>i</i> [siʙi] \"lower jaw\"",
+        "note": "Sputtering."
+    },
+    {
+        "id": "c",
+        "example": "Turkish <i><b>k</b>ebap</i> \"<a href=\"/wiki/Kebab\" title=\"Kebab\">kebab</a>\", Czech s<b>t</b>ín \"shadow\", Greek <i><b>κ</b>αι</i> \"and\"",
+        "note": "Between English <i><b>t</b>une</i> (RP) and <i><b>c</b>ute.</i> Sometimes used instead for <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[tʃ]</span> in languages like Hindi.",
+        "value": "voiceless alveolar affricate; IPA [ʦ] or [ts]"
+    },
+    {
+        "id": "ç",
+        "example": "German <i>I<b>ch</b></i>",
+        "note": "More of a y-coloration (more palatal) than <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[x]</span>. Some English speakers have a similar sound in <i><b>h</b>uge</i>. To produce this sound, try whispering loudly the word \"ye\" as in \"Hear ye!\".",
+        "value": "voiceless palatal fricative"
+    },
+    {
+        "id": "ɕ",
+        "example": "Mandarin 西安 <i><b>X</b>i'an</i>, Polish <i><b>ś</b>ciana</i>",
+        "note": "More y-like than <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ʃ]</span>; something like English <i><b>sh</b>e.</i>",
+        "value": "voiceless alveolopalatal fricative"
+    },
+    {
+        "id": "d",
+        "example": "English <i><b>d</b>a<b>d</b></i>",
+        "note": "",
+        "value": "voiced alveolar stop"
+    },
+    {
+        "id": "ɗ",
+        "example": "Swahili <i><b>D</b>o<b>d</b>oma</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[d]</span> said with a gulp."
+    },
+    {
+        "id": "ɖ",
+        "example": "American English <i>har<b>d</b>er</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[d]</span> with the tongue curled or pulled back."
+    },
+    {
+        "id": "ð",
+        "example": "English <i><b>th</b>e, ba<b>th</b>e</i>",
+        "note": "",
+        "value": "voiced dental fricative"
+    },
+    {
+        "id": "dz",
+        "example": "English <i>a<b>dds</b></i>, Italian <i><b>z</b>ero</i>",
+        "note": ""
+    },
+    {
+        "id": "dʒ",
+        "example": "English <i><b>j</b>u<b>dg</b>e</i>",
+        "note": ""
+    },
+    {
+        "id": "dʑ",
+        "example": "<a href=\"/wiki/Polish_phonology\" title=\"Polish phonology\">Polish</a> <i>nie<b>dź</b>wiedź</i> \"bear\"",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[dʒ]</span>, but with more of a y-sound."
+    },
+    {
+        "id": "dʐ",
+        "example": "Polish <i><b>dż</b>em</i> \"jam\"",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[dʒ]</span> with the tongue curled or pulled back."
+    },
+    {
+        "id": "e",
+        "example": "Spanish <i>f<b>e</b>;</i> French <i>cl<b>é</b></i>, German <i>Kl<b>ee</b></i>",
+        "note": "Similar to English <i>h<b>e</b>y</i>, before the y sets in.",
+        "value": "tense mid front unrounded vowel"
+    },
+    {
+        "id": "ɘ",
+        "example": "Australian English <i>b<b>ir</b>d</i>",
+        "note": ""
+    },
+    {
+        "id": "ə",
+        "example": "English <i><b>a</b>bove,</i> Hindi ठग <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ʈʰəɡ]</span> <i>(thug)</i> \"thief\"",
+        "note": "(Only occurs in English when not stressed.)",
+        "value": "lax mid central vowel; \"schwa\""
+    },
+    {
+        "id": "ɚ",
+        "example": "American English <i>runn<b>er</b></i>",
+        "note": "",
+        "value": "rhotacized schwa, essentially [ər]"
+    },
+    {
+        "id": "ɛ",
+        "example": "English <i>b<b>e</b>t</i>",
+        "note": "",
+        "value": "lax mid front unrounded vowel"
+    },
+    {
+        "id": "ɛ̃",
+        "example": "French <i>S<b>ain</b>t-Étienne</i>, <i>v<b>in</b></i>, <i>m<b>ain</b></i>",
+        "note": "Nasalized <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɛ]</span>."
+    },
+    {
+        "id": "ɜ",
+        "example": "RP <i>b<b>ir</b>d</i> (long)",
+        "note": ""
+    },
+    {
+        "id": "ɝ",
+        "example": "American English <i>b<b>ir</b>d</i>",
+        "note": "",
+        "value": "stressed [ɚ] in English; often transcribed the same way"
+    },
+    {
+        "id": "f",
+        "example": "English <i><b>f</b>un</i>",
+        "note": "",
+        "value": "voiceless labiodental fricative"
+    },
+    {
+        "id": "ɡ",
+        "example": "English <i><b>g</b>a<b>g</b></i>",
+        "note": "(Should look like <a href=\"/wiki/File:Opentail_g.svg\" class=\"image\"><img alt=\"Opentail g.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Opentail_g.svg/6px-Opentail_g.svg.png\" decoding=\"async\" width=\"6\" height=\"10\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Opentail_g.svg/9px-Opentail_g.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Opentail_g.svg/12px-Opentail_g.svg.png 2x\" data-file-width=\"115\" data-file-height=\"196\"></a>. No different from a Latin \"g\")"
+    },
+    {
+        "id": "ɠ",
+        "example": "Swahili <i>U<b>g</b>anda</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɡ]</span> said with a gulp."
+    },
+    {
+        "id": "ɢ",
+        "example": "",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɡ]</span>, but further back, in the throat. Found in <a href=\"/wiki/Persian_phonology\" title=\"Persian phonology\">Persian</a> and some Arabic dialects for <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">/q/</span>, as in <i><a href=\"/wiki/Muammar_Gaddafi\" title=\"Muammar Gaddafi\">Muammar Gaddafi</a>.</i>"
+    },
+    {
+        "id": "h",
+        "example": "American English <i><b>h</b>ouse</i>",
+        "note": "",
+        "value": "voiceless glottal fricative"
+    },
+    {
+        "id": "ɦ",
+        "example": "English <i>a<b>h</b>ead,</i> when said quickly.",
+        "note": ""
+    },
+    {
+        "id": "ʰ",
+        "example": "English <i><b>c</b>ome</i>",
+        "note": "The extra puff of air in English <i>top</i> <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[tʰɒp]</span> compared to <i>stop</i> [stɒp], or to French or Spanish <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[t]</span>.",
+        "value": "aspiration of preceding sound"
+    },
+    {
+        "id": "ħ",
+        "example": "Arabic ‏<span lang=\"ar\" dir=\"rtl\"><a href=\"https://en.wiktionary.org/wiki/%D9%85%D8%AD%D9%85%D8%AF#Arabic\" class=\"extiw\" title=\"wikt:محمد\">مُحَمَّد</a></span>‎ <i>Mu<b>h</b>ammad</i>",
+        "note": "Far down in the throat, like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[h]</span>, but stronger."
+    },
+    {
+        "id": "i",
+        "example": "English <i>s<b>ea</b></i>, French <i>v<b>i</b>lle</i>, Spanish <i>Valladol<b>i</b>d</i>",
+        "note": "",
+        "value": "tense high front unrounded vowel"
+    },
+    {
+        "id": "ɪ",
+        "example": "English <i>s<b>i</b>t</i>",
+        "note": "",
+        "value": "lax high front unrounded vowel"
+    },
+    {
+        "id": "ɨ",
+        "example": "Russian ты \"you\"",
+        "note": "Often used for unstressed English <i>ros<b>e</b>s.</i>",
+        "value": "high central unrounded vowel"
+    },
+    {
+        "id": "j",
+        "example": "English <i><b>y</b>es, hallelu<b>j</b>ah,</i> German <i><b>J</b>unge</i>",
+        "note": "",
+        "value": "voiced palatal glide; same as [y] in other systems"
+    },
+    {
+        "id": "ʲ",
+        "example": "In Russian <b>Л</b>е<b>н</b>ин <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ˈlʲenʲɪn]</span>",
+        "note": "Indicates a sound is more y-like.",
+        "value": "palatalization of preceding sound; also [ʸ]"
+    },
+    {
+        "id": "ʝ",
+        "example": "Spanish <i>ca<b>y</b>o</i> (some dialects)",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[j]</span>, but stronger."
+    },
+    {
+        "id": "ɟ",
+        "example": "Turkish <i><b>g</b>ör</i> \"see\", Czech <b>d</b>íra \"hole\"",
+        "note": "Between English <i><b>d</b>ew</i> (RP) and <i>ar<b>g</b>ue.</i> Sometimes used instead for <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[dʒ]</span> in languages like Hindi."
+    },
+    {
+        "id": "ʄ",
+        "example": "Swahili <i><b>j</b>ambo</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɟ]</span> said with a gulp."
+    },
+    {
+        "id": "k",
+        "example": "English <i>ki<b>ck</b>, s<b>k</b>ip</i>",
+        "note": "",
+        "value": "voiceless velar stop"
+    },
+    {
+        "id": "l",
+        "example": "English <i><b>l</b>eaf</i>",
+        "note": "",
+        "value": "voiced alveolar lateral liquid"
+    },
+    {
+        "id": "ɫ",
+        "example": "English <i>woo<b>l</b></i><br>Russian ма<b>л</b>ый <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ˈmɑɫɨj]</span> \"small\"",
+        "note": "\"Dark\" el.",
+        "value": "velarized voiced alveolar lateral liquid"
+    },
+    {
+        "id": "ɬ",
+        "example": "Welsh <i><b>ll</b>wyd</i> <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɬʊɪd]</span> \"grey\"<br>Zulu <i><b>hl</b>ala</i> <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɬaːla]</span> \"sit\"",
+        "note": "By touching roof of mouth with tongue and giving a quick breath out. Found in <a href=\"/wiki/Welsh_language\" title=\"Welsh language\">Welsh</a> placenames like <i><b>Ll</b>ango<b>ll</b>en</i> and <i><b>Ll</b>ane<b>ll</b>i</i> and <a href=\"/wiki/Nelson_Mandela\" title=\"Nelson Mandela\">Nelson Mandela</a>'s Xhosa name <i>Roli<b>hl</b>a<b>hl</b>a.</i>",
+        "value": "voiceless alveolar lateral fricative"
+    },
+    {
+        "id": "ɭ",
+        "example": "",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[l]</span> with the tongue curled or pulled back."
+    },
+    {
+        "id": "ɺ",
+        "example": "",
+        "note": "A flapped <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[l]</span>, like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[l]</span> and <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɾ]</span> said together."
+    },
+    {
+        "id": "ɮ",
+        "example": "Zulu <i><b>dl</b>a</i> \"eat\"",
+        "note": "Rather like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[l]</span> and <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ʒ]</span>, or <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[l]</span> and <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ð]</span>, said together."
+    },
+    {
+        "id": "ʟ",
+        "example": "",
+        "note": ""
+    },
+    {
+        "id": "m",
+        "example": "English <i><b>m</b>i<b>m</b>e</i>",
+        "note": "",
+        "value": "voiced bilabial nasal"
+    },
+    {
+        "id": "ɱ",
+        "example": "English <i>sy<b>m</b>phony</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[m]</span>, but lips touch teeth as they do in <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[f]</span>."
+    },
+    {
+        "id": "n",
+        "example": "English <i><b>n</b>u<b>n</b></i>",
+        "note": "",
+        "value": "voiced alveolar nasal"
+    },
+    {
+        "id": "ŋ",
+        "example": "English <i>si<b>ng</b></i>, Māori <i><b>ng</b>a</i>",
+        "note": "",
+        "value": "voiced velar nasal; don't confuse with sequence [ŋg]"
+    },
+    {
+        "id": "ɲ",
+        "example": "Spanish <i>Pe<b>ñ</b>a,</i> French <i>champa<b>gn</b>e</i>",
+        "note": "Rather like English <i>ca<b>ny</b>on</i> (<span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">/nj/</span> said quickly).",
+        "value": "voiced palatal nasal"
+    },
+    {
+        "id": "ɳ",
+        "example": "Hindi वरुण <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ʋəruɳ]</span> <i>Varu<b>n</b>a</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[n]</span> with the tongue curled or pulled back."
+    },
+    {
+        "id": "ɴ",
+        "example": "Castilian Spanish <i>Do<b>n</b> Juan</i> <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[doɴˈχwan]</span>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ŋ]</span>, but further back, in the throat.",
+        "value": "voiced uvular nasal"
+    },
+    {
+        "id": "o",
+        "example": "Spanish <i>n<b>o</b>,</i> French <i><b>eau</b></i>, German <i>B<b>o</b>den</i>",
+        "note": "Somewhat reminiscent of American English <i>n<b>o</b>.</i>",
+        "value": "tense mid back rounded vowel"
+    },
+    {
+        "id": "ɔ",
+        "example": "German <i><b>O</b>ldenburg</i>, French <i>Gar<b>o</b>nne</i>",
+        "note": "",
+        "value": "lax mid back rounded vowel"
+    },
+    {
+        "id": "ɔ̃",
+        "example": "French <i>Ly<b>on</b></i>, <i>s<b>on</b></i>",
+        "note": "Nasalized <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɔ]</span>."
+    },
+    {
+        "id": "ø",
+        "example": "French <i>f<b>eu</b></i>, <i>b<b>œu</b>fs</i>, German <i>G<b>oe</b>the</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[e]</span>, but with the lips rounded like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[o]</span>."
+    },
+    {
+        "id": "ɵ",
+        "example": "Dutch <i>h<b>u</b>t</i>, French <i>j<b>e</b></i>, Swedish <i>d<b>u</b>m</i>",
+        "note": "Halfway between <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[o]</span> and <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ø]</span>. Similar to <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ʊ]</span> but with the tongue slightly more down and front. The Dutch vowel is often transcribed with ⟨<span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">ʏ</span>⟩ or ⟨<span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">œ</span>⟩, whereas the French vowel is typically transcribed with ⟨<span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">ə</span>⟩."
+    },
+    {
+        "id": "œ",
+        "example": "French <i>b<b>œu</b>f</i>, <i>s<b>eu</b>l</i>, German <i>G<b>ö</b>ttingen</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɛ]</span>, but with the lips rounded like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɔ]</span>."
+    },
+    {
+        "id": "œ̃",
+        "example": "French <i>br<b>un</b></i>, <i>parf<b>um</b></i>",
+        "note": "Nasalized <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[œ]</span>."
+    },
+    {
+        "id": "ɶ",
+        "example": "",
+        "note": ""
+    },
+    {
+        "id": "p",
+        "example": "English <i>pi<b>p</b></i>",
+        "note": "",
+        "value": "voiceless bilabial stop"
+    },
+    {
+        "id": "q",
+        "example": "Arabic ‏<span lang=\"ar\" dir=\"rtl\"><a href=\"https://en.wiktionary.org/wiki/%D9%82%D8%B1%D8%A2%D9%86#Arabic\" class=\"extiw\" title=\"wikt:قرآن\">قُرْآن</a></span>‎ <i><b>Q</b>ur’ān</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[k]</span>, but further back, in the throat.",
+        "value": "voiceless uvular stop"
+    },
+    {
+        "id": "r",
+        "example": "Spanish <i>pe<b>rr</b>o,</i> Scots <i>bo<b>rr</b>ow</i>",
+        "note": "\"Rolled R\". (Often used for other rhotics, such as English <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɹ]</span>, when there's no ambiguity.)",
+        "value": "voiced alveolar trill (often used for other types of \"r\")"
+    },
+    {
+        "id": "ɾ",
+        "example": "Spanish <i>pe<b>r</b>o,</i> Tagalog <i>dali<b>r</b>i</i>, Malay <i>kaba<b>r</b></i>, American English <i>ki<b>tt</b>y/ki<b>dd</b>ie</i>",
+        "note": "\"Flapped R\".",
+        "value": "voiced alveolar tap; sometimes written [ᴅ]"
+    },
+    {
+        "id": "ʀ",
+        "example": "Dutch <i><b>r</b>ood</i> and German <i><b>r</b>ot</i> (some speakers)",
+        "note": "A trill in the back of the throat. Found for /r/ in some conservative registers of French.",
+        "value": "voiced uvular trill"
+    },
+    {
+        "id": "ɽ",
+        "example": "<a href=\"/wiki/Urdu\" title=\"Urdu\">Urdu</a> ساڑی <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[sə.ɽək]</span> \"road\"",
+        "note": "Like flapped <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɾ]</span>, but with the tongue curled back."
+    },
+    {
+        "id": "ɹ",
+        "example": "RP <i>bo<b>rr</b>ow</i>",
+        "note": "",
+        "value": "voiced (post)alveolar liquid"
+    },
+    {
+        "id": "ɻ",
+        "example": "Mandarin 人民日报 <i><b>R</b>énmín <b>R</b>ìbào</i> \"People's Daily\", American English <i>bo<b>rr</b>ow, butt<b>er</b></i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɹ]</span>, but with the tongue curled or pulled back, as pronounced by many English speakers."
+    },
+    {
+        "id": "ʁ",
+        "example": "French <i>Pa<b>r</b>is</i>, German <i><b>R</b>iemann (some dialects)</i>",
+        "note": "Said back in the throat, but not trilled.",
+        "value": "voiced uvular fricative"
+    },
+    {
+        "id": "s",
+        "example": "English <i><b>s</b>a<b>ss</b></i>",
+        "note": "",
+        "value": "voiceless alveolar fricative"
+    },
+    {
+        "id": "ʃ",
+        "example": "English <i><b>sh</b>oe</i>",
+        "note": "",
+        "value": "voiceless postalveolar fricative; same as [š]"
+    },
+    {
+        "id": "ʂ",
+        "example": "Mandarin 少林 <i>(<b>Sh</b>àolín)</i>, Russian Пу<b>ш</b>кин <i>(Pu<b>sh</b>kin)</i>",
+        "note": "Acoustically similar to <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ʃ]</span>, but with the tongue curled or pulled back.<br>"
+    },
+    {
+        "id": "t",
+        "example": "English <i>to<b>t</b>, s<b>t</b>op</i>",
+        "note": "",
+        "value": "voiceless alveolar stop"
+    },
+    {
+        "id": "ʈ",
+        "example": "Hindi ठग <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ʈʰəɡ]</span> <i>(thug)</i> \"thief\"",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[t]</span>, but with the tongue curled or pulled back."
+    },
+    {
+        "id": "ts",
+        "example": "English <i>ca<b>ts</b>,</i> Russian <b>ц</b>арь <i><b>ts</b>ar</i>",
+        "note": ""
+    },
+    {
+        "id": "tʃ",
+        "example": "English <i><b>ch</b>ur<b>ch</b></i>",
+        "note": ""
+    },
+    {
+        "id": "tɕ",
+        "example": "Mandarin 北京 Běi<b>j</b>īng (<span class=\"unicode haudio\"><span class=\"fn\"><span style=\"white-space:nowrap;margin-right:.25em;\"><a href=\"/wiki/File:Zh-Beijing.ogg\" title=\"About this sound\"><img alt=\"\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png\" decoding=\"async\" width=\"11\" height=\"11\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x\" data-file-width=\"20\" data-file-height=\"20\"></a></span><a href=\"//upload.wikimedia.org/wikipedia/commons/8/8a/Zh-Beijing.ogg\" class=\"internal\" title=\"Zh-Beijing.ogg\">listen</a></span></span>), Polish <i><b>ci</b>ebie</i> \"you\"",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[tʃ]</span>, but with more of a y-sound."
+    },
+    {
+        "id": "tʂ",
+        "example": "Mandarin 真正 <i><b>zh</b>ēn<b>zh</b>èng</i>, Polish <i><b>cz</b>as</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[tʃ]</span> with the tongue curled or pulled back.",
+        "value": "voiceless retroflex affricate"
+    },
+    {
+        "id": "u",
+        "example": "American English <i>f<b>oo</b>d</i>, French <i>v<b>ou</b>s</i> \"you\", German <i>Sch<b>u</b>macher</i>",
+        "note": "",
+        "value": "tense high back rounded vowel"
+    },
+    {
+        "id": "ʊ",
+        "example": "English <i>f<b>oo</b>t</i>, German <i>B<b>u</b>ndesrepublik</i>",
+        "note": "",
+        "value": "lax high back rounded vowel"
+    },
+    {
+        "id": "ʉ",
+        "example": "Australian English <i>f<b>oo</b>d</i> (long)",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɨ]</span>, but with the lips rounded as for <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[u]</span>."
+    },
+    {
+        "id": "v",
+        "example": "English <i><b>v</b>er<b>ve</b></i>",
+        "note": "",
+        "value": "voiced labiodental fricative"
+    },
+    {
+        "id": "ʋ",
+        "example": "Hindi वरुण <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ʋəruɳə]</span> \"Varuna\"",
+        "note": "Between <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[v]</span> and <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[w]</span>. Used by some Germans and Russians for <i>v/w</i>, and by some speakers of British English for <i>r</i>."
+    },
+    {
+        "id": "w",
+        "example": "English <i><b>w</b>ow</i>",
+        "note": "",
+        "value": "voiced labial-velar glide"
+    },
+    {
+        "id": "ʷ",
+        "example": "",
+        "note": "Indicates a sound has lip rounding, as in English <i><b>r</b>ain</i>"
+    },
+    {
+        "id": "ʍ",
+        "example": "<i><b>wh</b>at</i> (some dialects)",
+        "note": "like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[h]</span> and <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[w]</span> said together",
+        "value": "voiceless labial-velar fricative"
+    },
+    {
+        "id": "ɯ",
+        "example": "Turkish <i>kay<b>ı</b>k</i> \"caïque\", <a href=\"/wiki/Scottish_Gaelic\" title=\"Scottish Gaelic\">Scottish Gaelic</a> <i>gaol</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[u]</span>, but with the lips flat; something like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ʊ]</span>."
+    },
+    {
+        "id": "ɰ",
+        "example": "Spanish <i>a<b>gu</b>a</i>",
+        "note": "Like [w], but with the lips flat."
+    },
+    {
+        "id": "x",
+        "example": "Scottish English <i>lo<b>ch</b></i>, German <i>Ba<b>ch</b>,</i> Russian <b>х</b>леб <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[xlʲep]</span> \"bread\", Spanish <i><b>j</b>oven</i>",
+        "note": "between <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[k]</span> and <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[h]</span>",
+        "value": "voiceless velar fricative"
+    },
+    {
+        "id": "χ",
+        "example": "<a href=\"/wiki/Dutch_phonology\" title=\"Dutch phonology\">northern Standard Dutch</a> <i>S<b>ch</b>eveningen</i>, Castilian Spanish <i>Don <b>J</b>uan</i> <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[doɴˈχwan]</span>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[x]</span>, but further back, in the throat. Some German and Arabic speakers have <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[χ]</span> for <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[x]</span>.",
+        "value": "voiceless uvular fricative"
+    },
+    {
+        "id": "y",
+        "example": "French <i>r<b>u</b>e</i>, German <i>B<b>ü</b>low</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[i]</span>, but with the lips rounded as for <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[u]</span>.",
+        "value": "voiced palatal glide (in many transcription systems); IPA [j]"
+    },
+    {
+        "id": "ʏ",
+        "example": "German <i>D<b>ü</b>sseldorf</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɪ]</span>, but with the lips rounded as for <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ʊ]</span>."
+    },
+    {
+        "id": "ɣ",
+        "example": "Arabic ‏<span lang=\"ar\" dir=\"rtl\"><a href=\"https://en.wiktionary.org/wiki/%D8%BA%D8%A7%D9%84%D9%8A#Arabic\" class=\"extiw\" title=\"wikt:غالي\">غَالِي</a></span>‎ <i><span title=\"American Library Association – Library of Congress transliteration\"><i lang=\"ar-Latn\">ghālī</i></span></i> and Swahili <i><b>gh</b>ali</i> \"expensive\", Spanish <i>sue<b>g</b>ro</i>",
+        "note": "Sounds rather like French <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ʁ]</span> or between <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɡ]</span> and <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[h]</span>.",
+        "value": "voiced velar fricative"
+    },
+    {
+        "id": "ɤ",
+        "example": "Mandarin 河南 <i>H<b>é</b>nán</i>, <a href=\"/wiki/Scottish_Gaelic\" title=\"Scottish Gaelic\">Scottish Gaelic</a> <i>taigh</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[o]</span> but without the lips rounded, something like a cross of <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ʊ]</span> and <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ʌ]</span>."
+    },
+    {
+        "id": "ʎ",
+        "example": "Italian <i>ta<b>gli</b>atelle</i>, Portuguese <i>mu<b>lh</b>er</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[l]</span>, but more y-like. Rather like English <i>vo<b>l</b>ume.</i>",
+        "value": "voiced palatal lateral"
+    },
+    {
+        "id": "ɥ",
+        "example": "French <i>l<b>u</b>i</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[j]</span> and <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[w]</span> said together."
+    },
+    {
+        "id": "z",
+        "example": "English <i><b>z</b>oo</i>",
+        "note": "",
+        "value": "voiced alveolar fricative"
+    },
+    {
+        "id": "ʒ",
+        "example": "English <i>vi<b>si</b>on,</i> French <i><b>j</b>ournal</i>",
+        "note": "",
+        "value": "voiced palatoalveolar fricative; same as [ž]"
+    },
+    {
+        "id": "ʑ",
+        "example": "old-styled Russian по<b>зж</b>е <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ˈpoʑːe]</span> \"later\", Polish <i><b>ź</b>le</i>",
+        "note": "More y-like than <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ʒ]</span>, something like <i>bei<b>ge</b>y.</i>"
+    },
+    {
+        "id": "ʐ",
+        "example": "Russian <b>ж</b>ир \"fat\"",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ʒ]</span> with the tongue curled or pulled back."
+    },
+    {
+        "id": "θ",
+        "example": "English <i><b>th</b>igh, ba<b>th</b></i>",
+        "note": "",
+        "value": "voiceless dental fricative"
+    },
+    {
+        "id": "ɸ",
+        "example": "Japanese 富士 <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ɸɯdʑi]</span> <i><b>F</b>uji</i>, Māori <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ˌɸaːɾeːˈnuiː]</span> <i><b>wh</b>arenui</i>",
+        "note": "Like <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[p]</span>, but with the lips not quite touching",
+        "value": "voiceless bilabial fricative"
+    },
+    {
+        "id": "ʔ",
+        "example": "English <i>uh-oh, Hawai<b>‘</b>i,</i> German <i>die Angst</i>",
+        "note": "The 'glottal stop', a catch in the breath. For some people, found in <i>bu<b>tt</b>on</i> <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ˈbʌʔn̩]</span>, or between vowels across words: <i>Deus ex machina</i> <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[ˌdeɪəsˌʔɛksˈmɑːkɪnə]</span>; in some nonstandard dialects, in <i>a apple</i> <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[əˈʔæpl̩]</span>.",
+        "value": "glottal stop; also written ’ or ʾ"
+    },
+    {
+        "id": "ʕ",
+        "example": "Arabic ‏<span lang=\"ar\" dir=\"rtl\"><a href=\"https://en.wiktionary.org/wiki/%D8%B9%D8%B1%D8%A8%D9%8A#Arabic\" class=\"extiw\" title=\"wikt:عربي\">عَرَبِيّ</a></span>‎ <i><span title=\"American Library Association – Library of Congress transliteration\"><i lang=\"ar-Latn\"><b>ʻ</b>arabī</i></span></i> \"Arabic\"",
+        "note": "A light, voiced sound deep in the throat, articulated with the root of the tongue against the pharynx (back of the throat).",
+        "value": "voiced pharyngeal fricative; also written ‘ or ʿ"
+    },
+    {
+        "id": "ǀ",
+        "example": "English <i>tsk-tsk!</i> or <i>tut-tut!,</i> Zulu <i>i<b>c</b>i<b>c</b>i</i> \"earring\"",
+        "note": "(The English click used for disapproval.) Several distinct sounds, written as digraphs, including <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[kǀ], [ɡǀ], [ŋǀ]</span>. The Zimbabwean MP <a href=\"/wiki/Welshman_Ncube\" title=\"Welshman Ncube\">N<b>c</b>ube</a> has this click in his name, as did <a href=\"/wiki/Cetshwayo_kaMpande\" class=\"mw-redirect\" title=\"Cetshwayo kaMpande\"><b>C</b>etshwayo</a>."
+    },
+    {
+        "id": "ǁ",
+        "example": "English <i>tchick! tchick!,</i> Zulu <i>i<b>x</b>o<b>x</b>o</i> \"frog\"",
+        "note": "(The English click used to urge on a horse.) Several distinct sounds, written as digraphs, including <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[kǁ], [ɡǁ], [ŋǁ]</span>. Found in the name of the <a href=\"/wiki/Xhosa_people\" title=\"Xhosa people\"><b>X</b>hosa</a>."
+    },
+    {
+        "id": "ǃ",
+        "example": "Zulu <i>i<b>q</b>a<b>q</b>a</i> \"polecat\"",
+        "note": "(The English click used to imitate the trotting of a horse.) A hollow popping sound, like a cork pulled from a bottle. Several distinct sounds, written as digraphs, including <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[kǃ], [ɡǃ], [ŋǃ]</span>."
+    },
+    {
+        "id": "ʘ",
+        "example": "ǂ’Amkoe <i><b>ʘ</b>oa</i> \"two\"",
+        "note": "Like a kissing sound."
+    },
+    {
+        "id": "ǂ",
+        "example": "Khoekhoe <i><b>ǂg</b>ā-amǃnâ</i> [ǂàʔám̀ᵑǃã̀] \"to put in the mouth\"",
+        "note": "Like an imitation of a chewing sound."
+    },
+    {
+        "id": "ḇ",
+        "value": "spirantized [b]; historically [β], modern [v]"
+    },
+    {
+        "id": "č",
+        "value": "voiceless palatoalveolar affricate; IPA [ʧ] or [tʃ]"
+    },
+    {
+        "id": "ḏ",
+        "value": "palatalized [dʸ]; can be pronounced [ǰ]"
+    },
+    {
+        "id": " ",
+        "value": "or emphatic, i.e. pharyngealized [zˁ] or [ðˁ]"
+    },
+    {
+        "id": "ḍ",
+        "value": "voiced retroflex stop; IPA [ɖ]"
+    },
+    {
+        "id": "g",
+        "value": "voiced velar stop"
+    },
+    {
+        "id": "ḡ",
+        "value": "spirantized [g]; same as [ɣ]"
+    },
+    {
+        "id": "ḥ",
+        "value": "voiceless pharyngeal fricative; IPA [ħ]"
+    },
+    {
+        "id": "ḫ",
+        "value": "voiceless uvular fricative; same as [χ]"
+    },
+    {
+        "id": "ẖ",
+        "value": "voiceless fricative; probably palatal [ç]"
+    },
+    {
+        "id": "ỉ",
+        "value": "special transcriptional symbol; also [j]"
+    },
+    {
+        "id": "ǰ",
+        "value": "voiced palatoalveolar affricate; IPA [ʤ] or [dʒ]"
+    },
+    {
+        "id": "ḳ",
+        "value": "voiceless uvular stop; same as [q]"
+    },
+    {
+        "id": "ḵ",
+        "value": "spirantized [k]; same as [x]"
+    },
+    {
+        "id": "ḷ",
+        "value": "voiced retroflex lateral liquid; IPA [ɭ]"
+    },
+    {
+        "id": "ṇ",
+        "value": "voiced retroflex nasal; IPA [ɳ]"
+    },
+    {
+        "id": "ŏ",
+        "value": "mid central unrounded vowel, similar to [ə]"
+    },
+    {
+        "id": "p̅",
+        "value": "spirantized [p]; historically [ɸ], modern [f]"
+    },
+    {
+        "id": "þ",
+        "value": "runic letter equivalent to [θ]"
+    },
+    {
+        "id": "ṛ",
+        "value": "voiced retroflex flap; IPA [ɽ]"
+    },
+    {
+        "id": "š",
+        "value": "voiceless postalveolar fricative; IPA [ʃ]"
+    },
+    {
+        "id": "ś",
+        "value": "voiceless alveolopalatal fricative; IPA [ɕ]"
+    },
+    {
+        "id": "ṣ",
+        "value": "voiceless retroflex fricative; IPA [ʂ]"
+    },
+    {
+        "id": "ṭ",
+        "value": "voiceless retroflex stop; IPA [ʈ]"
+    },
+    {
+        "id": "ṯ",
+        "value": "palatalized [tʸ]; can be pronounced [č]"
+    },
+    {
+        "id": "ʨ",
+        "value": "voiceless alveolopalatal affricate"
+    },
+    {
+        "id": "ŭ",
+        "value": "high central unrounded vowel, similar to [ɨ]"
+    },
+    {
+        "id": "ü",
+        "value": "tense high front rounded vowel"
+    },
+    {
+        "id": "ʸ",
+        "value": "palatalization of preceding sound; IPA [ʲ]"
+    },
+    {
+        "id": "ẓ",
+        "value": "voiced retroflex fricative; IPA [ʐ]"
+    },
+    {
+        "id": "ž",
+        "value": "voiced palatoalveolar fricative; IPA [ʒ]"
+    },
+    {
+        "id": "’",
+        "value": "glottalization of preceding sound (ejective)"
+    },
+    {
+        "id": "‘",
+        "value": "aspiration of preceding sound; same as [ʰ]"
+    },
+	{
+		"id": "ˈ",
+		"value": "main stress",
+		"note": "The mark denotes the stress of the following syllable."
+	},
+	{
+		"id": "ˌ",
+		"value": "weaker stress",
+		"note": "The mark denotes the stress of the following syllable."
+	},
+	{
+		"id": "ː",
+		"value": "long",
+		"note": "Often used with English vowels or diphthongs."
+	}
+]
