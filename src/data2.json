@@ -544,7 +544,7 @@
     },
     {
         "id": "x",
-        "example": "Scottish English <i>lo<b>ch</b></i>, German <i>Ba<b>ch</b>,</i> Russian <b>х</b>леб <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[xlʲep]</span> \"bread\", Spanish <i><b>j</b>oven</i>",
+        "example": "Scottish English <i>lo<b>ch</b></i>, German <i>Ba<b>ch</b>,</i> Russian <i><b>х</b>леб</i> \"bread\", Spanish <i><b>j</b>oven</i>",
         "note": "between <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[k]</span> and <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[h]</span>",
         "value": "voiceless velar fricative"
     },

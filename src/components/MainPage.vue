@@ -15,28 +15,22 @@ const normalized = computed(() => text.value.normalize())
 		<div class="header">
 			<input type="text" v-model="text"
 				placeholder="Enter IPA here">
-			<div @click="overview = !overview" class="button">
+			<button @click="overview = !overview" class="button">
 				<span v-if="overview">Overview</span>
 				<span v-else>Details</span>
-			</div>
+			</button>
 		</div>
 		<div v-if="text.length !== normalized.length">
 			<br>
 			This text needed to be normalized.
 		</div>
-		<div v-if="overview" class="row">
-			<DiagonalDisplay
+		<div :class="{'row': overview}">
+			<component
+				:is="overview ? DiagonalDisplay : CharacterDisplay"
 				:value="character"
 				v-for="(character, index) of normalized"
 				:key="character+index">
-			</DiagonalDisplay>
-		</div>
-		<div v-else>
-			<CharacterDisplay
-				:value="character"
-				v-for="(character, index) of normalized"
-				:key="character+index">
-			</CharacterDisplay>
+			</component>
 		</div>
 	</div>
 </template>
@@ -58,6 +52,8 @@ const normalized = computed(() => text.value.normalize())
 	}
 
 	.header .button {
+		font-size: 13pt;
+		font-family: inherit;
 		margin: 16px;
 		background-color: rgb(255, 249, 242);
 		border-radius: 10px;
@@ -98,6 +94,10 @@ const normalized = computed(() => text.value.normalize())
 		background-color: rgb(253, 215, 169);
 		border: 1px solid rgb(170, 145, 109);
 		font-family: serif;
+	}
+
+	.main input::placeholder {
+		color: rgb(175, 133, 71);
 	}
 
 	html {

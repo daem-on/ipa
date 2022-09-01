@@ -120,6 +120,7 @@ const result = computed(() => findCharacter(props.value));
 		align-items: center;
 		border: 1px solid rgb(202, 176, 139);
 		border-radius: 5px;
+		flex: 0 0 auto;
 	}
 
 	.notfound {
