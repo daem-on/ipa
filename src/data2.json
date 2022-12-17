@@ -69,7 +69,7 @@
     },
     {
         "id": "c",
-        "example": "Turkish <i><b>k</b>ebap</i> \"<a href=\"/wiki/Kebab\" title=\"Kebab\">kebab</a>\", Czech s<b>t</b>ín \"shadow\", Greek <i><b>κ</b>αι</i> \"and\"",
+        "example": "Turkish <i><b>k</b>ebap</i> \"kebab\", Czech <i>s<b>t</b>ín</i> \"shadow\", Greek <i><b>κ</b>αι</i> \"and\"",
         "note": "Between English <i><b>t</b>une</i> (RP) and <i><b>c</b>ute.</i> Sometimes used instead for <span title=\"Representation in the International Phonetic Alphabet (IPA)\" class=\"IPA\" lang=\"und-Latn-fonipa\">[tʃ]</span> in languages like Hindi.",
         "value": "voiceless alveolar affricate; IPA [ʦ] or [ts]"
     },
